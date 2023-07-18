@@ -1,5 +1,7 @@
 # 2d_Ising_Wolff_sampler
-A C++ implementation of the Wolff algorithm.
+A C++ implementation of the Wolff algorithm. Samples are drawn from the 2D Ising model with nearest neighbour interactions only.
+
+By default J = 1 which has a critical point at T = 2.269.
 
 ## Compiling
 Run 'make' to compile the code or have a look at the Makefile.
