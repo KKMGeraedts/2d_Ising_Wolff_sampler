@@ -6,7 +6,7 @@ Run 'make' to compile the code or have a look at the Makefile.
 
 Then run the compiled code which should be stored in  the 'ising_model' file. 
 
-## USAGE:
+### USAGE:
 
 In the src/main.cpp file you can change some parameters.
   1. L - lattice size of LxL lattice.
